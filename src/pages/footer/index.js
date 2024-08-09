@@ -10,10 +10,7 @@ const Footer = () => {
           <div className={style.foothead}>Visit Us</div>
           <div  className={style.address}>Teaxpress Private Unmited Plat No.319/9, Eastem  Bypass Rood,Near Baneshwar More, Silligurl bBengel-734006</div>
           
-
-
-
-        </div>
+       </div>
         <div className={style.box2}>
           <div className={style.foothead}> Need Help?</div>
          
